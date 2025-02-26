@@ -1,7 +1,7 @@
 {
-  "name": "carbookingbackend",
+  "name": "NodejsBoilerplate",
   "version": "1.0.0",
-  "description": "MentorHive is a backend project for managing users, mentors, and their interactions.",
+  "description": "NodejsBoilerplate",
   "main": "server.js",
   "scripts": {
     "start": "node src/server.js",
